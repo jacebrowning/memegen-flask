@@ -7,7 +7,6 @@ An API to programatically generate memes based solely on requested URLs.
 [![Coverage Status](http://img.shields.io/coveralls/jacebrowning/memegen-flask/main.svg)](https://coveralls.io/r/jacebrowning/memegen-flask)
 [![Scrutinizer Code Quality](http://img.shields.io/scrutinizer/g/jacebrowning/memegen-flask.svg)](https://scrutinizer-ci.com/g/jacebrowning/memegen-flask/?branch=main) <!--content-->
 [![License](https://img.shields.io/badge/license-mit-blue)](https://github.com/jacebrowning/memegen-flask/blob/main/LICENSE.md)
-[![GitHub Sponsor](https://img.shields.io/badge/server%20costs-%247%2Fmonth-red)](https://github.com/sponsors/jacebrowning)
 
 ## Generating Images
 
