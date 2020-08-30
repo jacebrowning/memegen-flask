@@ -12,7 +12,7 @@ class Config:
     THREADED = False
 
     # Constants
-    GITHUB_SLUG = "jacebrowning/memegen"
+    GITHUB_SLUG = "jacebrowning/memegen-flask"
     GITHUB_URL = "https://github.com/{}".format(GITHUB_SLUG)
     GITHUB_BASE = "https://raw.githubusercontent.com/{}/main/".format(GITHUB_SLUG)
     CHANGES_URL = GITHUB_BASE + "CHANGELOG.md"

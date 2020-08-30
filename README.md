@@ -2,11 +2,11 @@
 
 An API to programatically generate memes based solely on requested URLs.
 
-[![Unix Build Status](http://img.shields.io/travis/jacebrowning/memegen/main.svg?label=unix)](https://travis-ci.org/jacebrowning/memegen)
-[![Windows Build Status](https://img.shields.io/appveyor/ci/jacebrowning/memegen/main.svg?label=windows)](https://ci.appveyor.com/project/jacebrowning/memegen)
-[![Coverage Status](http://img.shields.io/coveralls/jacebrowning/memegen/main.svg)](https://coveralls.io/r/jacebrowning/memegen)
-[![Scrutinizer Code Quality](http://img.shields.io/scrutinizer/g/jacebrowning/memegen.svg)](https://scrutinizer-ci.com/g/jacebrowning/memegen/?branch=main) <!--content-->
-[![License](https://img.shields.io/badge/license-mit-blue)](https://github.com/jacebrowning/memegen/blob/main/LICENSE.md)
+[![Unix Build Status](http://img.shields.io/travis/jacebrowning/memegen-flask/main.svg?label=unix)](https://travis-ci.org/jacebrowning/memegen-flask)
+[![Windows Build Status](https://img.shields.io/appveyor/ci/jacebrowning/memegen-flask/main.svg?label=windows)](https://ci.appveyor.com/project/jacebrowning/memegen-flask)
+[![Coverage Status](http://img.shields.io/coveralls/jacebrowning/memegen-flask/main.svg)](https://coveralls.io/r/jacebrowning/memegen-flask)
+[![Scrutinizer Code Quality](http://img.shields.io/scrutinizer/g/jacebrowning/memegen-flask.svg)](https://scrutinizer-ci.com/g/jacebrowning/memegen-flask/?branch=main) <!--content-->
+[![License](https://img.shields.io/badge/license-mit-blue)](https://github.com/jacebrowning/memegen-flask/blob/main/LICENSE.md)
 [![GitHub Sponsor](https://img.shields.io/badge/server%20costs-%247%2Fmonth-red)](https://github.com/sponsors/jacebrowning)
 
 ## Generating Images

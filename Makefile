@@ -1,7 +1,7 @@
 # Project settings
 PROJECT := memegen
 PACKAGE := memegen
-REPOSITORY := jacebrowning/memegen
+REPOSITORY := jacebrowning/memegen-flask
 
 # Project paths
 PACKAGES := $(PACKAGE) tests scripts

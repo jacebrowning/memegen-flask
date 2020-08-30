@@ -46,7 +46,7 @@ def test_text_wrapping(client):
 def test_standard_font(client):
     """Create a meme using the standard meme font.
 
-    See: https://github.com/jacebrowning/memegen/issues/216
+    See: https://github.com/jacebrowning/memegen-flask/issues/216
 
     """
     url = "/ch/we_like_using_the/custom_fonts.jpg?font=impact&watermark=none"
