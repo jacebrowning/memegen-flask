@@ -48,7 +48,7 @@ For example, http://localhost:5000/doge/~hspecial_characters~q/underscore__-dash
 
 Some memes come in multiple forms, which can be selected via `?alt=<style>`:
 
-<img src="docs/styles.png" alt="Template with Styles" style="width: 600px;"/>
+![Sample Image](docs/styles.png)
 
 For example: [http://localhost:5000/sad-biden/sad_joe_biden/doesn't_think_you'll_vote.jpg?alt=scowl](http://localhost:5000/sad-biden/sad_joe_biden/doesn't_think_you'll_vote.jpg?alt=scowl)
 
