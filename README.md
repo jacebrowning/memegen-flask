@@ -12,7 +12,7 @@ An API to programatically generate memes based solely on requested URLs.
 
 The API is stateless so URLs contain all the information necessary to generate meme images. For example, https://memegen.link/buzz/memes/memes_everywhere.jpg produces:
 
-![Sample Image](https://memegen.link/buzz/memes/memes_everywhere.jpg?watermark=none)
+![Sample Image](docs/sample.jpg)
 
 But, the site can also produce masked URLs to conceal the joke:
 
@@ -42,19 +42,19 @@ Reserved URL characters can be escaped:
 
 For example, https://memegen.link/doge/~hspecial_characters~q/underscore__-dash--.jpg produces:
 
-![Escaped Characters](https://memegen.link/doge/~hspecial_characters~q/underscore__-dash--.jpg?watermark=none)
+![Escaped Characters](docs/escaped.jpg)
 
 ### Alternate Styles
 
 Some memes come in multiple forms, which can be selected via `?alt=<style>`:
 
-<img src="https://memegen.link/static/images/template.png" alt="Template with Styles" style="width: 600px;"/>
+<img src="docs/styles.png" alt="Template with Styles" style="width: 600px;"/>
 
 For example: [https://memegen.link/sad-biden/sad_joe_biden/doesn't_think_you'll_vote.jpg?alt=scowl](https://memegen.link/sad-biden/sad_joe_biden/doesn't_think_you'll_vote.jpg?alt=scowl)
 
 Or, you can use your own image URL as the style. For example, https://memegen.link/custom/my_pretty/background.jpg?alt=http://www.gstatic.com/webp/gallery/1.jpg produces:
 
-![Custom Background](https://memegen.link/custom/my_pretty/background.jpg?alt=http://www.gstatic.com/webp/gallery/1.jpg&watermark=none)
+![Custom Background](docs/custom.jpg)
 
 ### Alternate Fonts
 
@@ -62,7 +62,7 @@ Additional fonts are available (see: https://memegen.link/api/fonts) and can be 
 
 For example, https://memegen.link/joker/pick_a_different_font/people_lose_their_minds.jpg?font=typoline-demo produces:
 
-![Custom Font](https://memegen.link/joker/pick-a-different-font/people-lose-their-minds.jpg?font=typoline-demo&watermark=none)
+![Custom Font](docs/font.jpg)
 
 ### Custom sizes
 
@@ -70,7 +70,7 @@ Images can be scaled to a specific width via `?width=<int>` or a specific height
 
 For example, https://memegen.link/both/width_or_height/why_not_both~q.jpg?height=350&width=600 produces:
 
-![Custom Size](https://memegen.link/both/width_or_height/why_not_both~q.jpg?height=350&width=600&watermark=none)
+![Custom Size](docs/size.jpg)
 
 ### Preview Images
 
