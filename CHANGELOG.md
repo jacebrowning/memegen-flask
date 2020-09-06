@@ -3,6 +3,7 @@
 ## 6.x
 
 - The backend was rewritten using Sanic: https://github.com/jacebrowning/memegen/blob/main/CHANGELOG.md
+- All clients should use the new API: https://api.memegen.link/docs/
 
 ## 5.6
 
