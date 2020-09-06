@@ -1,5 +1,9 @@
 # Revision History
 
+## 6.x
+
+- The backend was rewritten using Sanic: https://github.com/jacebrowning/memegen/blob/main/CHANGELOG.md
+
 ## 5.6
 
 - Changed watermark to always be disabled for blank images.
